@@ -1,3 +1,3 @@
 # Deploy app
 
-[Here](https://iampromaster.github.io/Quizapp_React){:target="_blank"}
+<a href="http://exmaple.com" target="_blank">Here</a>
