@@ -1,3 +1,3 @@
 # Deploy app
 
-<a href="http://exmaple.com" target="_blank">Here</a>
+<a href="https://iampromaster.github.io/Quizapp_React/" target="_blank">Here</a>
